@@ -1,0 +1,1 @@
+export * from './grafico-svg/graficos-svg.component'
